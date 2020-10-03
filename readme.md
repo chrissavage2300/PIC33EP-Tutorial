@@ -1,6 +1,6 @@
 <h1>PIC33EP Tutorials.</H1>
 
-These are a bunch of tutorials I came up with to help me learn XC16. The eventual end goal is to use the encoder module.
+These are a bunch of tutorials I came up with to help me learn XC16. The eventual end goal is to use the encoder module. These tutorials use the dsPIC33EP32MC202. It should work for other families.
 
 Project 1: Blink an LED using Timer 1
 
