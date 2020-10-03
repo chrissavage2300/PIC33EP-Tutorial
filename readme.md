@@ -1,4 +1,4 @@
-THese are just a collection of self paced tutorials for myself on how to use the PIC33EP series.
+<h1>These are just a collection of self paced tutorials for myself on how to use the PIC33EP series.</H1>
 
 Project 1: Blink an LED using Timer 1
 
