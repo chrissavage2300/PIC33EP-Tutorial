@@ -22,4 +22,4 @@ Project 8: Encoder Module. Read Encoder Module and output it via UART
 
 Project 9: TBD
 
-Project 10: TBD
+Project 10: Motion Controller project.
