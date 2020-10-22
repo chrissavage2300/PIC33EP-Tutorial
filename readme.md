@@ -27,6 +27,7 @@ Project 10: Motion Controller project.
 
 <h2>Common Settings.</H2>
 Clock:
+Note: Make sure that IOL1WAY is set to allow multiple reconfigurations.
 
 ![clock settings](https://raw.githubusercontent.com/chrissavage2300/PIC33EP-Tutorial/main/Clock_Settings.png)
 
