@@ -23,3 +23,13 @@ Project 8: Encoder Module. Read Encoder Module and output it via UART
 Project 9: TBD
 
 Project 10: Motion Controller project.
+
+
+<h2>Common Settings.</H2>
+Clock:
+
+![clock settings](https://raw.githubusercontent.com/chrissavage2300/PIC33EP-Tutorial/main/Clock_Settings.png)
+
+IO:
+![IO Settings](https://raw.githubusercontent.com/chrissavage2300/PIC33EP-Tutorial/main/IO_Settings.png)
+
