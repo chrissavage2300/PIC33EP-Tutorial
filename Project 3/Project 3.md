@@ -1,5 +1,5 @@
 Project 3 involves turning on an LED depending on what value the ADC reads. Code is pretty simple
-
+```
 #include "mcc_generated_files/system.h"
 #include "mcc_generated_files/mcc.h"    //NOTE HAD TO ADD THIS.
 /*
@@ -36,6 +36,6 @@ int main(void)
     }
     return 1; 
 }
-    
+```    
     
    ![ADC Settings](https://raw.githubusercontent.com/chrissavage2300/PIC33EP-Tutorial/main/Project%203/ADC%20Settings.png)
