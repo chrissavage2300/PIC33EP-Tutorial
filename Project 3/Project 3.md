@@ -19,4 +19,6 @@ Project 3 involves turning on an LED depending on what value the ADC reads. Code
         // Add your application code
     }
     return 1; 
-    https://raw.githubusercontent.com/chrissavage2300/PIC33EP-Tutorial/main/Project%203/ADC%20Settings.png
+    
+    
+   ![ADC Settings](https://raw.githubusercontent.com/chrissavage2300/PIC33EP-Tutorial/main/Project%203/ADC%20Settings.png)
