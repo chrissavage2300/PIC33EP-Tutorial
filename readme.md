@@ -10,15 +10,15 @@ Project 2: Turn on an LED with a switch.
 
 Project 3: Take an ADC Reading and turn on/off an LED
 
-Project 4: PWM an LED using output compare.
+Project 4: Vary the PWM based on a pot
 
-Project 5: Vary the PWM based on a pot
+Project 5: Output the ADC reading Via UART
 
-Project 6: Output the ADC reading Via UART
+Project 6: Talk to another micro Using SPI. Take ADC reading and output it via SPI to another micro which will display it via UART
 
-Project 7: Talk to another micro Using SPI. Take ADC reading and output it via SPI to another micro which will display it via UART
+Project 7: Encoder Module. Read Encoder Module and output it via UART
 
-Project 8: Encoder Module. Read Encoder Module and output it via UART
+Project 8: TBD
 
 Project 9: TBD
 
