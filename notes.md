@@ -25,4 +25,4 @@ Code is pretty straightforward after watching the debug window
 Be Sure to include %d in printf in order to display an integer
 
 
-printf("POT:= %d\r\n", conversion);
+       printf("POT:= %d\r\n", conversion);
