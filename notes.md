@@ -21,3 +21,6 @@ Code is pretty straightforward after watching the debug window
         // Add your application code
     }
     return 1; 
+
+Be Sure to include %d in printf in order to display an integer
+printf("POT:= %d\r\n", conversion);
