@@ -14,7 +14,7 @@ Project 4: Vary the PWM based on a pot
 
 Project 5: Output the ADC reading Via UART
 
-Project 6: Talk to another micro Using SPI. Take ADC reading and output it via SPI to another micro which will display it via UART
+Project 6: Light up some LEDs using a SN74HC595 shift register via SPI.
 
 Project 7: Encoder Module. Read Encoder Module and output it via UART
 
