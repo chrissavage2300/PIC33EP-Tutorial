@@ -53,9 +53,12 @@ struct
     
     unsigned int M4 : 1; 
     
+    
 }Mtotal;
 
+
 int main()
+
 {
     Mtotal.M1=1;
     
