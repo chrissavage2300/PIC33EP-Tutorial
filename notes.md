@@ -39,25 +39,4 @@ then the delay can be used
             __delay_ms(100);
             
             
-            
-            
-#include <stdio.h>
-
-struct
-{
-    unsigned int M1 : 1; 
-    unsigned int M2 : 1;
-    unsigned int M3 : 1; 
-    unsigned int M4 : 1; 
-}Mtotal;
-
-int main()
-{
-    Mtotal.M1=1;
-    Mtotal.M2=1;
-    Mtotal.M3=0;
-    Mtotal.M4=1;
-    printf("Hello World\n");
-    printf("Mtotal:%d\nM1:%d\nM2:%d\nM3:%d\nM4:%d\n",Mtotal,Mtotal.M1,Mtotal.M2,Mtotal.M3,Mtotal.M4);
-    return 0;
-}            
+ 
