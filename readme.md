@@ -14,7 +14,7 @@ Project 4: Vary the PWM based on a pot
 
 Project 5: Output the ADC reading Via UART
 
-Project 6: Light up some LEDs using a SN74HC595 shift register via SPI.
+Project 6: Communicate with SPI DAC module.
 
 Project 7: Encoder Module. Read Encoder Module and output it via UART
 
