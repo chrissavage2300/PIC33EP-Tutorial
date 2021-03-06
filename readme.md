@@ -18,9 +18,9 @@ Project 6: Communicate with SPI DAC module.
 
 Project 7: Encoder Module. Read Encoder Module and output it via UART
 
-Project 8: TBD
+Project 8: UART to Nextion TFT
 
-Project 9: TBD
+Project 9: UART to Nextion TFT with ADC Read
 
 Project 10: Motion Controller project.
 
